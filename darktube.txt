@@ -1,0 +1,17 @@
+DarkTube-A YT Clone 
+
+1. Make layout, starting with navbar.
+
+Separatemain nd side content. 
+Get cards for an example of video data
+
+Put cards in main and side content sections
+
+Change dimensions of cards so that video sizes are responsive 
+
+Change height of cards 
+
+Change height of comment section
+
+
+
