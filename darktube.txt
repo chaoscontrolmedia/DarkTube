@@ -12,6 +12,25 @@ Change dimensions of cards so that video sizes are responsive
 Change height of cards 
 
 Change height of comment section
+Changed colors of page 
+
+Fixed dimensions of video, and video card
+
+Still needed: 
+
+Add React 
+
+Add functionality for adding comments to Comments Section 
+
+add loop for videos on side panel 
+
+
+
+
+
+
+
+
 
 
 
