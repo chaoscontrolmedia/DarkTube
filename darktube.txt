@@ -26,6 +26,28 @@ add loop for videos on side panel
 
 
 
+---------------------
+
+Adding React
+
+Objective: Split page into different sections, starting with Navbar
+
+-Installing React in project 
+-Installing npm install react-bootstrap bootstrap for Bootstrap
+
+import{Navbar, Container, Nav } from "react-bootstrap"- Imports for navbar 
+
+export const-Make nav usable in other parts of page  
+
+
+import {MainNavbar} from './components/Navbar';
+import 'bootstrap/dist/css/bootstrap.min.css'; // Ensure this is present in index.js 
+-Importing the main navbar and the bootstrap link 
+
+
+
+
+
 
 
 
